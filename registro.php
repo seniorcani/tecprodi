@@ -5,6 +5,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo "Formulario enviado correctamente. ¡Funciona bien!";
 } else {
     // Si alguien accede al archivo sin enviar el formulario
-    echo "Acceso no válido. Necesitas ingresar correctamente .";
+    echo "Acceso no válido. Necesitas ingresar correctamente.";
 }
 ?>
